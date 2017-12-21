@@ -8,3 +8,5 @@ This was created on Saturday, Feb 4th 2017 at [DevFestMN](https://devfest.mn/) h
 
 ## Walkthrough
 This demo was recorded at DevFest 2017: https://www.youtube.com/watch?v=_2kaJ4Kxc6E
+
+The slides can be found here: http://goo.gl/Iq3TRj
